@@ -64,8 +64,8 @@ class ProfileScreen extends StatelessWidget {
                                 borderRadius: BorderRadius.circular(20),
                               ),
                               child: const Icon(
-                                color: Colors.white,
                                 Icons.enhance_photo_translate,
+                                color: Colors.white,
                                 size: 20,
                               ),
                             ),
